@@ -1,13 +1,13 @@
 # Sobre mim
-- 👋 Oi, eu sou a aluna Valentina do 1°D
+- :crescent_moon: Oi, eu sou a aluna Valentina do 1°D
 
-- 👀 Gosto de exatas
+- :white_heart: Gosto de exatas
 
-- 🌱 Pretendo fazer faculdade de arquitetura
+- :black_heart: Pretendo fazer faculdade de arquitetura
 
-- 💞️ Amo cachorros
+- :blue_heart: Amo cachorros
 
-- 📫 valentina.pontes@escola.pr.gov.br
+- :desktop_computer: valentina.pontes@escola.pr.gov.br
 
 <!---
 tinasartori1/tinasartori1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
