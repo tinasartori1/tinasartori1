@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Oi, eu sou a aluna Valentina
+- 👋 Oi, eu sou a aluna Valentina do 1°D
 
 - 👀 Gosto de exatas
 
