@@ -1,7 +1,9 @@
 # Sobre mim
 - :crescent_moon: Oi, eu sou a aluna Valentina do 1°D
 
-- :white_heart: Gosto de exatas
+- :white_heart: Gosto de exatas 
+
+- :white_heart: interessada no gatinho do 1b
 
 - :black_heart: Pretendo fazer faculdade de arquitetura
 
