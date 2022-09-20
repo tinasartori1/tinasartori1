@@ -3,7 +3,7 @@
 
 - :white_heart: Gosto de exatas 
 
-- :white_heart: interessada no gatinho do 1b
+- :green_heart: interessada no gatinho do 1b
 
 - :black_heart: Pretendo fazer faculdade de arquitetura
 
