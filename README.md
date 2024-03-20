@@ -1,5 +1,5 @@
 # Sobre mim
-- :crescent_moon: Oi, eu sou a aluna Valentina do 1°D
+- :crescent_moon: Oi, eu sou a aluna Valentina do 2°C
 
 - :white_heart: Gosto de exatas 
 
